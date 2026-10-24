@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-connectors-docs",
+  "packageVersion": "1.1.5",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-connectors-docs",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-connectors",
+  "sourceRepository": "https://github.com/x12i/memorix-generic-connectors",
+  "sourceCommit": "e8dd8c95a7ccbf7d3aa881086974242e3dcc1e10",
+  "sourcePackageDirectory": "packages/memorix-connectors-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:03:19.232095+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "1a806260a1bdec188f35ea7a5038efb549940a0cd0d8cde173f328b11fc8c569",
+    "manifestSha256": "aae77f3f42d333929fa537d25ffff521db5b832561a37c6e5500838939c39107"
+  },
+  "npmPackages": [
+    "@x12i/memorix-connectors-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
